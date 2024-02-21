@@ -1,0 +1,10 @@
+build/
+*.lck
+*.asc
+*.bin
+*.o
+*.dblite
+*.json
+*.elf
+*.uf2
+*.dis
